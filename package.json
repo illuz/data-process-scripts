@@ -1,0 +1,18 @@
+{
+  "name": "data-process-scripts",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "word": "node word-learning/de-duplicate.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/illuz/data-process-scripts.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/illuz/data-process-scripts/issues"
+  },
+  "homepage": "https://github.com/illuz/data-process-scripts#readme"
+}
